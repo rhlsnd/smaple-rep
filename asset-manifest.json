@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/smaple-rep/static/css/main.f855e6bc.css",
+    "main.js": "/smaple-rep/static/js/main.38cf8c63.js",
+    "static/js/787.d4aba7ab.chunk.js": "/smaple-rep/static/js/787.d4aba7ab.chunk.js",
+    "index.html": "/smaple-rep/index.html",
+    "main.f855e6bc.css.map": "/smaple-rep/static/css/main.f855e6bc.css.map",
+    "main.38cf8c63.js.map": "/smaple-rep/static/js/main.38cf8c63.js.map",
+    "787.d4aba7ab.chunk.js.map": "/smaple-rep/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.38cf8c63.js"
+  ]
+}
